@@ -104,7 +104,7 @@ changes to fit within the desired level, enable the `audit` mode.
 针对所有名字空间启用这些模式是一种好的实践，将它们设置为你最终打算 `enforce` 的
  _期望的_ 级别和版本。这一阶段中所生成的警告和审计注解信息可以帮助你到达这一状态。
 如果你期望负载的作者能够作出变更以便适应期望的级别，可以启用 `warn` 模式。
-如果你希望使用审计日志了监控和驱动变更，以便负载能够适应期望的级别，可以启用 `audit` 模式。
+如果你希望使用审计日志了解监控和驱动变更，以便负载能够适应期望的级别，可以启用 `audit` 模式。
 
 <!--
 When you have the `enforce` mode set to your desired value, these modes can still be useful in a
